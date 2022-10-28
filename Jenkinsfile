@@ -1,2 +1,1 @@
-sudo apt update
-sudo systemctl status gunicorn
+source myvenv/bin/activatesource myvenv/bin/activate
